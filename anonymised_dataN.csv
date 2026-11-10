@@ -1,0 +1,201 @@
+sex,evote,zip,education,citizenship,marital_status,party,age
+Male,0,2100,Upper secondary education,Denmark,Never married,Green,18-29
+Female,0,2300,Vocational bachelors educations,Denmark,Married/separated,Red,45-59
+Female,1,2400,Masters programmes,Denmark,Never married,Red,18-29
+Female,0,2400,Primary education,Denmark,Divorced/Widowed,Green,45-59
+Female,1,2400,Primary education,Denmark,Never married,Green,30-44
+Male,1,2300,Vocational Education and Training (VET),Denmark,Never married,Green,18-29
+Male,1,2200,Upper secondary education,Denmark,Never married,Green,18-29
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green,60+
+Female,0,2100,PhD programmes,Denmark,Married/separated,Red,45-59
+Female,0,2300,Vocational Education and Training (VET),,Married/separated,Green,45-59
+Male,0,2200,Bachelors programmes,Denmark,Married/separated,Green,30-44
+Male,1,2100,Masters programmes,Denmark,Never married,Invalid vote,18-29
+Male,0,2400,Vocational bachelors educations,Other,Married/separated,Green,45-59
+Female,0,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green,60+
+Female,1,2200,Primary education,Denmark,Never married,Green,18-29
+Female,0,2100,Upper secondary education,Denmark,Never married,Green,18-29
+Female,0,2100,Bachelors programmes,Denmark,Never married,Green,18-29
+Female,1,2400,Primary education,Denmark,Never married,Green,30-44
+Male,0,2200,Primary education,Denmark,Never married,Green,18-29
+Female,0,2300,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Red,60+
+Female,0,2300,Bachelors programmes,Denmark,Never married,Red,60+
+Female,0,2100,Vocational Education and Training (VET),Denmark,Married/separated,Green,60+
+Male,0,2400,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Male,0,2400,Primary education,Denmark,Married/separated,Red,60+
+Female,0,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green,60+
+Female,0,2400,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,60+
+Female,0,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green,45-59
+Male,0,2200,Short cycle higher education,Denmark,Married/separated,Green,45-59
+Female,0,2200,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Male,0,2400,Masters programmes,Denmark,Married/separated,Green,30-44
+Female,0,2300,Upper secondary education,Denmark,Never married,Green,18-29
+Female,0,2300,Primary education,Denmark,Never married,Green,18-29
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Red,60+
+Male,0,2400,Primary education,Denmark,Married/separated,Green,30-44
+Female,0,2100,Vocational Education and Training (VET),Denmark,Married/separated,Red,45-59
+Female,0,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green,30-44
+Female,1,2300,Vocational bachelors educations,Denmark,Never married,Green,30-44
+Female,0,2300,Primary education,Denmark,Married/separated,Red,60+
+Female,0,2200,Masters programmes,Denmark,Married/separated,Red,30-44
+Female,1,2100,Upper secondary education,Denmark,Never married,Green,18-29
+Male,0,2400,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,45-59
+Female,0,2300,Primary education,Denmark,Married/separated,Green,30-44
+Male,1,2300,Vocational Education and Training (VET),Denmark,Never married,Green,30-44
+Female,1,2400,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Female,0,2300,Upper secondary education,Denmark,Married/separated,Red,60+
+Male,0,2200,Primary education,,Never married,Green,30-44
+Male,0,2100,Masters programmes,Denmark,Never married,Green,30-44
+Female,0,2200,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,45-59
+Male,0,2300,Vocational bachelors educations,Denmark,Married/separated,Green,30-44
+Male,0,2100,Vocational bachelors educations,Denmark,Never married,Green,18-29
+Male,1,2200,Vocational bachelors educations,Denmark,Married/separated,Red,45-59
+Male,0,2400,Masters programmes,Denmark,Married/separated,Green,45-59
+Female,0,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green,45-59
+Female,0,2400,Vocational Education and Training (VET),Denmark,Never married,Green,45-59
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Red,45-59
+Female,0,2200,Vocational bachelors educations,Denmark,Never married,Red,45-59
+Female,0,2100,Primary education,Denmark,Never married,Green,18-29
+Female,0,2200,Masters programmes,Denmark,Married/separated,Red,30-44
+Male,1,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green,30-44
+Male,0,2400,Vocational bachelors educations,Denmark,Married/separated,Green,60+
+Male,1,2200,Primary education,,,Green,60+
+Male,0,2100,Vocational Education and Training (VET),Other,Never married,Green,30-44
+Female,1,2300,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Male,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green,45-59
+Female,1,2300,Primary education,,Divorced/Widowed,Red,60+
+Female,0,2400,Masters programmes,Denmark,Married/separated,Red,30-44
+Male,0,2200,Vocational Education and Training (VET),Denmark,Never married,Green,45-59
+Female,0,2200,Upper secondary education,Denmark,Married/separated,Green,45-59
+Female,0,2200,Vocational bachelors educations,,Married/separated,Red,60+
+Female,0,2400,Vocational bachelors educations,Denmark,Divorced/Widowed,Green,60+
+Female,1,2300,Vocational Education and Training (VET),,Married/separated,Green,45-59
+Female,0,2200,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,60+
+Female,0,2300,Short cycle higher education,Denmark,Married/separated,Red,60+
+Female,0,2400,Primary education,Denmark,Married/separated,Red,60+
+Female,0,2200,Primary education,Denmark,Married/separated,Green,60+
+Female,1,2300,Masters programmes,Denmark,Married/separated,Green,30-44
+Female,1,2300,Vocational bachelors educations,Denmark,Married/separated,Invalid vote,60+
+Male,0,2100,Primary education,Denmark,Married/separated,Red,60+
+Male,1,2400,Not stated,Denmark,Married/separated,Green,45-59
+Female,0,2400,Vocational bachelors educations,Denmark,Married/separated,Green,60+
+Female,0,2300,Vocational Education and Training (VET),Denmark,Married/separated,Red,30-44
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green,45-59
+Male,1,2400,Masters programmes,Denmark,Divorced/Widowed,Red,60+
+Female,0,2100,Upper secondary education,Other,Never married,Green,30-44
+Male,0,2200,Short cycle higher education,,,Green,30-44
+Female,0,2400,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Male,0,2400,Vocational bachelors educations,,,Red,30-44
+Female,0,2100,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,45-59
+Female,0,2300,Vocational Education and Training (VET),Denmark,Married/separated,Red,45-59
+Female,0,2300,Vocational Education and Training (VET),Denmark,Married/separated,Red,30-44
+Female,0,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green,45-59
+Male,0,2300,Short cycle higher education,Denmark,Married/separated,Green,60+
+Male,0,2300,Primary education,Denmark,Never married,Green,60+
+Female,0,2400,Upper secondary education,Denmark,Married/separated,Red,60+
+Female,0,2100,Vocational Education and Training (VET),Denmark,Never married,Green,18-29
+Female,0,2100,Bachelors programmes,Denmark,Never married,Green,18-29
+Male,0,2200,Primary education,Denmark,Divorced/Widowed,Green,60+
+Male,0,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green,30-44
+Male,0,2400,Vocational Education and Training (VET),Other,Divorced/Widowed,Green,45-59
+Female,0,2400,Vocational Education and Training (VET),,Married/separated,Green,30-44
+Male,0,2400,Vocational bachelors educations,Other,Married/separated,Red,60+
+Female,0,2300,Vocational Education and Training (VET),Denmark,Married/separated,Red,45-59
+Female,1,2200,Masters programmes,,,Red,45-59
+Female,0,2400,Short cycle higher education,Denmark,Never married,Green,18-29
+Female,1,2200,Vocational Education and Training (VET),,,Red,60+
+Female,1,2300,Primary education,Denmark,Divorced/Widowed,Green,45-59
+Female,0,2100,Vocational Education and Training (VET),Denmark,Never married,Green,18-29
+Male,0,2200,Vocational bachelors educations,Denmark,Married/separated,Red,45-59
+Male,1,2100,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Male,0,2300,Primary education,Denmark,Married/separated,Green,60+
+Female,0,2400,Primary education,Denmark,Married/separated,Green,60+
+Male,0,2200,Primary education,Denmark,Never married,Green,30-44
+Male,1,2100,Vocational Education and Training (VET),Denmark,Married/separated,Green,30-44
+Female,0,2200,Primary education,Denmark,Never married,Green,60+
+Male,0,2300,Upper secondary education,Denmark,Never married,Green,18-29
+Female,1,2300,Vocational Education and Training (VET),Denmark,Married/separated,Red,60+
+Female,1,2300,Not stated,Denmark,Married/separated,Red,45-59
+Male,0,2100,Primary education,Denmark,Married/separated,Green,30-44
+Male,1,2400,Primary education,Denmark,Never married,Green,45-59
+Female,0,2300,Primary education,,Never married,Red,45-59
+Female,1,2300,Primary education,,Divorced/Widowed,Red,60+
+Male,1,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green,30-44
+Male,0,2200,Vocational bachelors educations,Denmark,Never married,Green,30-44
+Male,0,2200,Not stated,Denmark,Married/separated,Green,45-59
+Female,0,2400,Vocational bachelors educations,,Divorced/Widowed,Red,45-59
+Male,0,2400,Primary education,Denmark,Divorced/Widowed,Green,45-59
+Female,0,2400,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,60+
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Red,60+
+Female,0,2200,Primary education,Denmark,Never married,Green,18-29
+Female,0,2300,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,45-59
+Male,0,2400,Vocational bachelors educations,Denmark,Divorced/Widowed,Red,60+
+Male,0,2200,Primary education,Denmark,Divorced/Widowed,Green,60+
+Male,0,2300,Primary education,Denmark,Never married,Green,18-29
+Female,0,2400,Short cycle higher education,Other,Married/separated,Green,45-59
+Female,0,2300,Vocational Education and Training (VET),Denmark,Never married,Green,30-44
+Male,1,2400,Primary education,Denmark,Married/separated,Green,45-59
+Male,0,2200,Primary education,Denmark,Never married,Green,18-29
+Male,0,2200,Masters programmes,Denmark,Married/separated,Green,45-59
+Female,1,2100,Vocational Education and Training (VET),,,Red,45-59
+Female,0,2200,Upper secondary education,Denmark,Never married,Green,18-29
+Female,0,2400,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Male,1,2200,Masters programmes,Denmark,Never married,Red,30-44
+Female,0,2300,Primary education,Denmark,Never married,Green,18-29
+Male,0,2300,Upper secondary education,,Never married,Green,18-29
+Female,0,2400,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,60+
+Male,0,2100,Upper secondary education,Denmark,Never married,Green,18-29
+Female,1,2100,Vocational bachelors educations,Denmark,Never married,Red,30-44
+Female,0,2300,Upper secondary education,Denmark,Never married,Green,18-29
+Female,1,2300,Vocational bachelors educations,Denmark,Never married,Red,60+
+Female,1,2400,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Male,0,2200,Short cycle higher education,,Never married,Green,45-59
+Female,0,2200,Primary education,Denmark,Married/separated,Green,30-44
+Female,0,2200,Bachelors programmes,Denmark,Married/separated,Red,60+
+Female,0,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green,45-59
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green,60+
+Male,1,2300,Vocational Education and Training (VET),Denmark,Never married,Green,18-29
+Male,0,2400,Primary education,Denmark,Married/separated,Green,45-59
+Male,0,2300,PhD programmes,Other,Married/separated,Red,60+
+Female,1,2300,Primary education,Denmark,Never married,Green,18-29
+Female,1,2200,Masters programmes,Denmark,Married/separated,Green,30-44
+Male,1,2400,Bachelors programmes,Denmark,Never married,Green,18-29
+Male,0,2200,Primary education,Denmark,Never married,Green,18-29
+Male,0,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green,45-59
+Male,0,2400,Masters programmes,Denmark,Married/separated,Green,30-44
+Female,1,2200,Upper secondary education,Denmark,Never married,Green,30-44
+Female,0,2400,Primary education,Denmark,Divorced/Widowed,Green,60+
+Male,0,2400,Masters programmes,Denmark,Married/separated,Green,45-59
+Female,0,2200,Vocational bachelors educations,Denmark,Married/separated,Red,60+
+Female,1,2400,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,60+
+Male,0,2300,Vocational Education and Training (VET),Denmark,Never married,Red,60+
+Male,0,2200,Short cycle higher education,Denmark,Never married,Green,30-44
+Male,0,2300,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,45-59
+Female,1,2100,Vocational bachelors educations,Denmark,Married/separated,Red,30-44
+Female,1,2200,Vocational Education and Training (VET),,,Red,60+
+Female,0,2400,Masters programmes,Denmark,Divorced/Widowed,Red,45-59
+Male,0,2100,PhD programmes,Denmark,Married/separated,Red,60+
+Male,0,2400,Primary education,Denmark,Married/separated,Green,60+
+Female,1,2300,Vocational Education and Training (VET),Denmark,Never married,Green,30-44
+Male,0,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green,60+
+Male,1,2200,Masters programmes,Denmark,Married/separated,Green,45-59
+Female,0,2100,Vocational Education and Training (VET),Denmark,Divorced/Widowed,Green,60+
+Male,0,2200,PhD programmes,Denmark,Married/separated,Red,60+
+Female,0,2400,Masters programmes,Denmark,Never married,Green,30-44
+Male,0,2100,Upper secondary education,Denmark,Never married,Green,18-29
+Male,1,2300,Vocational Education and Training (VET),Denmark,Married/separated,Red,45-59
+Female,0,2400,PhD programmes,Other,Married/separated,Red,45-59
+Male,1,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green,60+
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green,30-44
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Red,45-59
+Male,0,2300,Vocational bachelors educations,Denmark,Married/separated,Green,45-59
+Male,0,2300,Vocational Education and Training (VET),Denmark,Never married,Red,45-59
+Female,1,2400,Vocational bachelors educations,Denmark,Married/separated,Red,45-59
+Male,1,2300,Vocational bachelors educations,Denmark,Never married,Green,18-29
+Female,0,2400,Short cycle higher education,Denmark,Married/separated,Red,30-44
+Male,0,2200,Masters programmes,Denmark,Married/separated,Green,30-44
+Female,0,2100,Vocational bachelors educations,Denmark,Never married,Green,18-29
+Female,0,2400,Vocational Education and Training (VET),Denmark,Married/separated,Red,60+
+Male,0,2400,Vocational Education and Training (VET),Other,Divorced/Widowed,Green,60+
+Female,1,2100,Short cycle higher education,Denmark,Married/separated,Green,45-59
+Male,1,2400,Vocational Education and Training (VET),,,Green,60+

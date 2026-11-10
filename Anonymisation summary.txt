@@ -1,0 +1,14 @@
+Aspect            	What They Did                             
+-----------------	--------------------
+Name             	Removed
+DOB             	Converted to 4 age bands (18-29, 30-44, 45-59, 60+)
+Citizenship       	Recoded to "Denmark" or "Other"
+Marital Status    	Merged Divorced + Widowed → "Divorced/Widowed"
+Local Suppression 	Blanked citizenship (19 cells), then marital status (8 cells) for records with k < 3 
+Kept Unchanged    	Sex, ZIP, evote, education, party
+k-Anonymity       	k ≥ 3 achieved
+Records       	    All 200 kept (no deletions)
+Aspect            	What They Did                             
+-----------------	--------------------
+
+Potential weaknesses to exploit
